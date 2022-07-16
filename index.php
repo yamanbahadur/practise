@@ -2,7 +2,7 @@
 
 <?php
 
-print("this is first whisky time ... ");
+print("this is first BEER time ... ");
 
 
 ?>
